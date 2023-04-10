@@ -1,0 +1,48 @@
+.heading{
+  background-color: green;
+  height: 80px;
+}
+.container{
+  height: 450px;
+  margin-top: 50px;
+  margin-left: 150px;
+  background-color: rgb(226, 43, 162);
+  width:400px;
+  border-radius: 20px;
+}
+.container1{
+  height: 450px;
+  margin-top: -450px;
+  background-color:  rgb(226, 43, 162);
+  width:400px;
+  margin-left: 750px;
+  border-radius: 20px;
+}
+
+.text{
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  
+}
+.text1{
+  text-align: center;
+  margin-top: 45px;
+  font-weight: bold;
+}
+.btn{
+  margin-top: 45px;
+  margin-left: 100px;
+  background-color: aquamarine;
+  border-radius: 10px;
+  border: none;
+  height: 30px;
+  width: 200px;
+}
+.countervalue{
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 45px;
+  color: rgb(174, 205, 50);
+}
